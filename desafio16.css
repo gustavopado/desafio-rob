@@ -1,6 +1,6 @@
 body{
     height: 100%;
-    min-height: 100%;
+    min-height: 100vh;
     background: linear-gradient(90deg, #a8c4da, #399ef0 100%);
     display: flex;
     justify-content: center;
